@@ -204,4 +204,4 @@ This repository serves as the official landing page for Squid Game: The Mod. The
 **Get the most recent version of Squid Game: The Mod today!**
 
 ---
-**Last updated:** 2026-11-10 03:55:55 UTC
+**Last updated:** 2026-11-10 12:02:09 UTC
